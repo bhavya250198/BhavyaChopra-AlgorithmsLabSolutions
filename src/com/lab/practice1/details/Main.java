@@ -1,6 +1,5 @@
-package com.lab.practice1;
+package com.lab.practice1.details;
 import java.util.*;
-import com.lab.practice1.details.PayMoney;
 
 public class Main {
 	private static void show()
